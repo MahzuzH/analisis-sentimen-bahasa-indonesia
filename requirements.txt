@@ -1,3 +1,2 @@
-nltk==3.8.1
-Sastrawi==1.0.1
-Sastrawi==1.0.1
+nltk
+Sastrawi
